@@ -6,7 +6,7 @@
     color: #fff;
 }
 .header{
-    background-image: url(./images/background01.jpg);
+    background-image: url(/images/background01.jpg);
     height: 300px;
     width: 100%;
     margin: auto;
